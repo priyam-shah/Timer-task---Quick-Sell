@@ -12,6 +12,12 @@ Install below requirements to make sure correct versions are being used.
 
 - React 18.2.0
 
+- #### Install Dependencies using
+`npm install`
+
+- ### To run 
+`npm start`
+
 ---
 
 # Demo
