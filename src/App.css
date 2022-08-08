@@ -1,0 +1,59 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #282c34;
+}
+
+.timeContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.time {
+  font-size: 100px;
+  color: white;
+}
+
+.time-highlight {
+  color: #fa4f4f;
+}
+
+.buttonContainer {
+  margin-top: 50px;
+}
+
+.buttonContainer .button {
+  background-color: #61dafb;
+  color: black;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.time-input {
+  margin: 50px 10px;
+}
+
+.time-input-box {
+  width: 100px;
+  align-items: center;
+}
+
+.time-input-text {
+  color: white;
+  font-size: 20px;
+  border: none;
+  background: #282c34;
+  text-align: center;
+}
+
